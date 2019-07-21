@@ -1,6 +1,6 @@
 # BF-SH-BloomFilter_SimHash
 
-BF-SH: A Lightweight Privacy Protection Scheme in Mobile Crowd Sensing Networks——paper
+BF-SH: A Lightweight Privacy Protection Scheme in Mobile Crowd Sensing Networks
 
 BF-SH是移动群智感知网络中的一种轻量级的隐私保护方案
 
